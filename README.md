@@ -1,2 +1,2 @@
-# HackerShop
-ReactJS: Hacker Shop
+# Hacker Shop
+## ReactJS: Hacker Shop

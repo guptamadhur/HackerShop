@@ -1,5 +1,5 @@
 # React: HackerShop Shopping Cart
-## Deployed <a href="https://hackershop.netlify.app/">Hacker Shop</a>
+## Deployed <a href="https://hackershop.netlify.app/" target="_blank">Hacker Shop</a>
 ## Environment 
 
 - React Version: 16.13.1
